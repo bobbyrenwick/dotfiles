@@ -1,0 +1,17 @@
+{
+    "color_scheme": "Packages/User/base16-ocean.light (SL).tmTheme",
+    "font_size": 10,
+    "ignored_packages":
+    [
+        "Vintage"
+    ],
+    "rulers":
+    [
+        80
+    ],
+    "show_full_path": true,
+    "tab_size": 4,
+    "theme": "Spacegray Light.sublime-theme",
+    "translate_tabs_to_spaces": true,
+    "trim_trailing_white_space_on_save": true
+}
