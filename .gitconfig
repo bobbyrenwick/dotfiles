@@ -1,0 +1,17 @@
+[user]
+    name = Bob Renwick
+    email = bob.renwick@gmail.com
+[core]
+    editor = nano
+[color]
+    ui = true
+
+[alias]
+    fs = flow feature start
+    ff = flow feature finish
+    fc = flow feature checkout
+    rs = flow release start
+    rf = flow release finish
+    uc = commit -a -m 'updating changelog'
+[push]
+    default = simple
