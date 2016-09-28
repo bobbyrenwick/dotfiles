@@ -1,4 +1,5 @@
 {
+    "bootstrapped": true,
     "in_process_packages":
     [
     ],
@@ -6,23 +7,15 @@
     [
         "Babel",
         "BracketHighlighter",
+        "Fix Mac Path",
         "GitGutter",
+        "GitSavvy",
         "Handlebars",
         "LESS",
-        "Package Control",
-        "SideBarEnhancements",
+        "Oceanic Next Color Scheme",
         "sublime-github",
-        "SublimeFixMacPath",
-        "SublimeGit",
-        "SublimeLinter",
+        "SublimeLinter-contrib-eslint",
         "SublimeLinter-flake8",
-        "SublimeLinter-jscs",
-        "SublimeLinter-jshint",
-        "SublimeLinter-jsxhint",
-        "Theme - Spacegray"
-    ],
-    "repositories":
-    [
-        "https://github.com/int3h/SublimeFixMacPath"
+        "SummitLinter"
     ]
 }

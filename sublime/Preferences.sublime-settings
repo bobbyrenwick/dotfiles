@@ -1,5 +1,6 @@
 {
-    "color_scheme": "Packages/User/base16-ocean.light (SL).tmTheme",
+    "color_scheme": "Packages/Oceanic Next Color Scheme/Oceanic Next.tmTheme",
+    "theme": "Oceanic Next.sublime-theme",
     "font_size": 10,
     "ignored_packages":
     [
@@ -11,7 +12,6 @@
     ],
     "show_full_path": true,
     "tab_size": 4,
-    "theme": "Spacegray Light.sublime-theme",
     "translate_tabs_to_spaces": true,
     "trim_trailing_white_space_on_save": true
 }
